@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city
+1,Mary,Smith,mary.smith1@example.com,Kano
+2,Sarah,Brown,sarah.brown2@example.com,Abuja
+3,Mary,Adeyemi,mary.adeyemi3@example.com,Lagos
+4,Fatima,Bello,fatima.bello4@example.com,Lagos
+5,John,Johnson,john.johnson5@example.com,Abuja
+6,Sarah,Adeyemi,sarah.adeyemi6@example.com,Port Harcourt
+7,John,Adeyemi,john.adeyemi7@example.com,Abuja
+8,Peter,Bello,peter.bello8@example.com,Abuja
+9,Aisha,Garba,aisha.garba9@example.com,Kano
+10,John,Williams,john.williams10@example.com,Bauchi
+11,Grace,Okafor,grace.okafor11@example.com,Abuja
+12,Sarah,Yusuf,sarah.yusuf12@example.com,Lagos
+13,Mary,Bello,mary.bello13@example.com,Lagos
+14,Grace,Yusuf,grace.yusuf14@example.com,Port Harcourt
+15,James,Smith,james.smith15@example.com,Bauchi
+16,Peter,Johnson,peter.johnson16@example.com,Bauchi
+17,Mary,Adeyemi,mary.adeyemi17@example.com,Kano
+18,Fatima,Yusuf,fatima.yusuf18@example.com,Port Harcourt
+19,Sarah,Johnson,sarah.johnson19@example.com,Lagos
+20,Sarah,Okafor,sarah.okafor20@example.com,Lagos
+21,Sarah,Johnson,sarah.johnson21@example.com,Bauchi
+22,James,Musa,james.musa22@example.com,Kano
+23,David,Yusuf,david.yusuf23@example.com,Kano
+24,Sarah,Okafor,sarah.okafor24@example.com,Lagos
+25,Fatima,Williams,fatima.williams25@example.com,Port Harcourt
+26,Sarah,Williams,sarah.williams26@example.com,Bauchi
+27,Daniel,Okafor,daniel.okafor27@example.com,Port Harcourt
+28,Sarah,Yusuf,sarah.yusuf28@example.com,Lagos
+29,Sarah,Smith,sarah.smith29@example.com,Kano
+30,Daniel,Okafor,daniel.okafor30@example.com,Lagos
+31,Sarah,Garba,sarah.garba31@example.com,Kano
+32,Sarah,Musa,sarah.musa32@example.com,Bauchi
+33,Aisha,Williams,aisha.williams33@example.com,Kano
+34,David,Brown,david.brown34@example.com,Port Harcourt
+35,Peter,Okafor,peter.okafor35@example.com,Port Harcourt
+36,Daniel,Garba,daniel.garba36@example.com,Bauchi
+37,Grace,Brown,grace.brown37@example.com,Abuja
+38,Peter,Musa,peter.musa38@example.com,Lagos
+39,John,Johnson,john.johnson39@example.com,Abuja
+40,David,Bello,david.bello40@example.com,Port Harcourt
+41,Mary,Bello,mary.bello41@example.com,Bauchi
+42,Fatima,Musa,fatima.musa42@example.com,Port Harcourt
+43,James,Adeyemi,james.adeyemi43@example.com,Lagos
+44,Mary,Adeyemi,mary.adeyemi44@example.com,Kano
+45,Grace,Johnson,grace.johnson45@example.com,Kano
+46,Daniel,Williams,daniel.williams46@example.com,Bauchi
+47,John,Okafor,john.okafor47@example.com,Port Harcourt
+48,David,Adeyemi,david.adeyemi48@example.com,Lagos
+49,James,Adeyemi,james.adeyemi49@example.com,Port Harcourt
+50,Sarah,Williams,sarah.williams50@example.com,Kano
+51,David,Adeyemi,david.adeyemi51@example.com,Port Harcourt
+52,John,Garba,john.garba52@example.com,Kano
+53,Aisha,Smith,aisha.smith53@example.com,Lagos
+54,Grace,Okafor,grace.okafor54@example.com,Abuja
+55,John,Brown,john.brown55@example.com,Port Harcourt
+56,Mary,Johnson,mary.johnson56@example.com,Bauchi
+57,Mary,Adeyemi,mary.adeyemi57@example.com,Abuja
+58,David,Musa,david.musa58@example.com,Port Harcourt
+59,David,Okafor,david.okafor59@example.com,Port Harcourt
+60,Fatima,Bello,fatima.bello60@example.com,Abuja
+61,Peter,Brown,peter.brown61@example.com,Kano
+62,Daniel,Yusuf,daniel.yusuf62@example.com,Bauchi
+63,Peter,Musa,peter.musa63@example.com,Lagos
+64,Sarah,Brown,sarah.brown64@example.com,Lagos
+65,Grace,Smith,grace.smith65@example.com,Port Harcourt
+66,Peter,Brown,peter.brown66@example.com,Port Harcourt
+67,Sarah,Smith,sarah.smith67@example.com,Lagos
+68,John,Brown,john.brown68@example.com,Lagos
+69,John,Yusuf,john.yusuf69@example.com,Lagos
+70,Peter,Brown,peter.brown70@example.com,Kano
+71,Aisha,Brown,aisha.brown71@example.com,Port Harcourt
+72,David,Garba,david.garba72@example.com,Port Harcourt
+73,Aisha,Brown,aisha.brown73@example.com,Bauchi
+74,Daniel,Brown,daniel.brown74@example.com,Lagos
+75,Mary,Bello,mary.bello75@example.com,Kano
+76,Daniel,Bello,daniel.bello76@example.com,Bauchi
+77,John,Johnson,john.johnson77@example.com,Lagos
+78,Daniel,Yusuf,daniel.yusuf78@example.com,Lagos
+79,Sarah,Brown,sarah.brown79@example.com,Abuja
+80,Peter,Musa,peter.musa80@example.com,Abuja
+81,Daniel,Williams,daniel.williams81@example.com,Kano
+82,Aisha,Brown,aisha.brown82@example.com,Lagos
+83,Aisha,Adeyemi,aisha.adeyemi83@example.com,Lagos
+84,John,Adeyemi,john.adeyemi84@example.com,Lagos
+85,Mary,Brown,mary.brown85@example.com,Abuja
+86,Daniel,Musa,daniel.musa86@example.com,Bauchi
+87,Sarah,Bello,sarah.bello87@example.com,Lagos
+88,David,Bello,david.bello88@example.com,Lagos
+89,Daniel,Okafor,daniel.okafor89@example.com,Bauchi
+90,James,Bello,james.bello90@example.com,Port Harcourt
+91,Aisha,Williams,aisha.williams91@example.com,Abuja
+92,James,Brown,james.brown92@example.com,Lagos
+93,Fatima,Adeyemi,fatima.adeyemi93@example.com,Lagos
+94,Grace,Smith,grace.smith94@example.com,Lagos
+95,Fatima,Musa,fatima.musa95@example.com,Port Harcourt
+96,Peter,Williams,peter.williams96@example.com,Lagos
+97,Peter,Johnson,peter.johnson97@example.com,Abuja
+98,Mary,Garba,mary.garba98@example.com,Lagos
+99,Sarah,Bello,sarah.bello99@example.com,Lagos
+100,Fatima,Brown,fatima.brown100@example.com,Port Harcourt
